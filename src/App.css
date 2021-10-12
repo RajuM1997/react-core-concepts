@@ -28,10 +28,19 @@
   color: #61dafb;
 }
 
+.person {
+  background: rgba(61, 152, 236, 0.856);
+  color: aliceblue;
+  margin: 20px;
+  border: 3px solid lightsalmon;
+  border-radius: 10px;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }

@@ -1,0 +1,66 @@
+[
+    {
+      "id": "mathtutor-001",
+      "title": "Class-VIII",
+      "duration": "10-months",
+      "detail": "This course is for the new student of class-8. We provide standard basic knowledge to start the class syllabus, then we accelerate the course with targeted goal",
+      "image": "https://images.pexels.com/photos/7742832/pexels-photo-7742832.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "price": 10000
+    },
+    {
+      "id": "mathtutor-002",
+      "title": "Class-IX",
+      "duration": "10-months",
+      "detail": "This course is for the new student of class-9. We provide standard basic knowledge to start the class syllabus, then we accelerate the course with targeted goal",
+      "image": "https://images.pexels.com/photos/7092548/pexels-photo-7092548.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "price": 15000
+    },
+    {
+      "id": "mathtutor-003",
+      "title": "Class-X",
+      "duration": "10-months",
+      "detail": "This course is for the new student of class-10. We provide standard basic knowledge to start the class syllabus, then we accelerate the course with targeted goal",
+      "image": "https://images.pexels.com/photos/4560083/pexels-photo-4560083.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "price": 15000
+    },
+    {
+      "id": "mathtutor-004",
+      "title": "Class-XI",
+      "duration": "10-months",
+      "detail": "This course is for the new student of class-11. We provide standard basic knowledge to start the class syllabus, then we accelerate the course with targeted goal",
+      "image": "https://images.pexels.com/photos/8199159/pexels-photo-8199159.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "price": 20000
+    },
+    {
+      "id": "mathtutor-005",
+      "title": "Class-XII",
+      "duration": "10-months",
+      "detail": "This course is for the new student of class-12. We provide standard basic knowledge to start the class syllabus, then we accelerate the course with targeted goal",
+      "image": "https://images.pexels.com/photos/8199217/pexels-photo-8199217.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "price": 20000
+    },
+    {
+      "id": "mathtutor-006",
+      "title": "SSC",
+      "duration": "3-months",
+      "detail": "This course is for the new student of SSC. We provide standard basic knowledge to start the class syllabus, then we accelerate the course with targeted goal",
+      "image": "https://images.pexels.com/photos/8199141/pexels-photo-8199141.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "price": 9000
+    },
+    {
+      "id": "mathtutor-007",
+      "title": "HSC",
+      "duration": "3-months",
+      "detail": "This course is for the new student of HSC. We provide standard basic knowledge to start the class syllabus, then we accelerate the course with targeted goal",
+      "image": "https://images.pexels.com/photos/8199132/pexels-photo-8199132.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "price": 12000
+    },
+    {
+      "id": "mathtutor-008",
+      "title": "Varsity_Admission",
+      "duration": "4-months",
+      "detail": "This course is for the new student of Varsity Admission. We provide standard basic knowledge to start the class syllabus, then we accelerate the course with targeted goal",
+      "image": "https://images.pexels.com/photos/8199147/pexels-photo-8199147.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "price": 16000
+    }
+  ]
